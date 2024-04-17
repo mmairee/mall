@@ -4,7 +4,7 @@
 This map showcases the shaded relief of Fayette Mall and other locations located on Nicholasville Road. This area is in south Lexington, where the busiest road, Nicholasville Rd is located. Many businesses are located on this road, including the Fayette Mall, The Summit, Churches, a Movie Theater, and many restaurants. 
 
 ![Layout of Nicholasville Road & Fayette Mall Area](SummitPortraitLayout.jpg)     
-*Caption of Map*
+*Map of Nicholasville Road & Fayette Mall Area*
 
 [Link to high-resolution version (Portrait)](SummitLayout_Portrait.pdf)    
 
